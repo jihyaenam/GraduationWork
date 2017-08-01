@@ -9,8 +9,19 @@
 </head>
 <body>
 <input id="text" type="text" value="http://www.naver.com" style="width:80%" /><br/>
-<div id="qrcode" style="width:100px; height:100px; margin-top:15px;"></div>
-<div id="qrcode2" style="width:200px; height:200px; margin-top:15px;"></div>
+<table>
+    <tr>
+        <td><div id="qrcode" style="width:100px; height:100px; "></div></td>
+        <td><div id="qrcode2" style="width:200px; height:200px; "></div></td>
+        <td><div id="qrcode3" style="width:300px; height:300px; "></div></td>
+    </tr>
+    <tr>
+        <td><div id="qrcode4" style="width:300px; height:300px; "></div></td>
+        <td><div id="qrcode5" style="width:250px; height:250px; "></div></td>
+    </tr>
+</table>
+
+
 <script type="text/javascript">
 var qrcode = new QRCode(document.getElementById("qrcode"), {
 	width : 100,
@@ -23,6 +34,15 @@ var qrcode2 = new QRCode(document.getElementById("qrcode2"), {
 var qrcode3 = new QRCode(document.getElementById("qrcode3"), {
     width : 300,
     height : 300
+
+});
+var qrcode4 = new QRCode(document.getElementById("qrcode4"), {
+    width : 300,
+    height : 300
+});
+var qrcode5 = new QRCode(document.getElementById("qrcode5"), {
+    width : 250,
+    height : 250
 });
 function makeCode () {		
 	var elText = document.getElementById("text");
@@ -34,7 +54,10 @@ function makeCode () {
 	}
 	
 	qrcode.makeCode(elText.value);
-	qrcode2.makeCode(elText.value)
+	qrcode2.makeCode(elText.value);
+    qrcode3.makeCode(elText.value);
+    qrcode4.makeCode(elText.value);
+    qrcode5.makeCode(elText.value);
 }
 
 makeCode();
