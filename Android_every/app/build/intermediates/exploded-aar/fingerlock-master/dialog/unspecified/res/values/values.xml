@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_red_500">#F44336</color>
+    <color name="success_color">#009688</color>
+    <color name="warning_color">#f4511e</color>
+    <dimen name="md_dialog_frame_margin">24dp</dimen>
+    <dimen name="md_title_textsize">20sp</dimen>
+    <string name="app_name">FingerLock</string>
+    <string name="fingerprint_description">Confirm fingerprint to continue.</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Retry.</string>
+    <string name="fingerprint_success">Fingerprint authenticated.</string>
+    <string name="initializing">Initializing…</string>
+    <string name="invalid_password">Invalid password. Retry.</string>
+    <string name="new_fingerprint_enrolled_description">New fingerprint added, password is required to confirm.</string>
+    <string name="no_fingerprints_registered">No fingerprint(s) registered.</string>
+    <string name="password">Password</string>
+    <string name="password_description">Enter password to continue.</string>
+    <string name="sign_in">Sign in</string>
+    <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
+    <string name="use_password">Use password</string>
+</resources>

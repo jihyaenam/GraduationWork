@@ -1,0 +1,4 @@
+#Thu Sep 28 14:30:05 KST 2017
+base.0=C\:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

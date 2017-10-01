@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\account_context_menu.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\app\\src\\main\\res\\menu\\account_context_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\account.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\upm\\build\\intermediates\\bundles\\default\\res\\menu\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\account.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\app\\src\\main\\res\\menu\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\account_context_menu.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\upm\\build\\intermediates\\bundles\\default\\res\\menu\\account_context_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\upm\\build\\intermediates\\bundles\\default\\res\\menu\\main.xml"
+    }
+]

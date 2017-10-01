@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_fingerprint_error.png",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\dialog\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_fingerprint_error.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\md_nav_back.png",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\drawable-ldpi-v4\\md_nav_back.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_fingerprint_success.png",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\dialog\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_fingerprint_success.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]

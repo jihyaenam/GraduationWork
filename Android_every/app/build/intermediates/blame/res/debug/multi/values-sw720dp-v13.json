@@ -1,0 +1,98 @@
+[
+    {
+        "outputFile": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.5.9\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.5.9\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Downloads\fingerlock-master(0928_2)\fingerlock-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\user\Downloads\fingerlock-master(0928_2)\fingerlock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_97f65c045a23876f912eff342346372fad4afb01\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\fingerlock-master(0928_2)\fingerlock-master\core\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfbecb3284b6fcdddd50ba3000d765eb0c3a4179">
+        <dex dex="C:\Users\user\Downloads\fingerlock-master(0928_2)\fingerlock-master\app\build\intermediates\pre-dexed\debug\classes_8f09f7f78f2f8b9decc83fb016355046226560f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\fingerlock-master(0928_2)\fingerlock-master\dialog\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75bfe2f393725e7047a29f5730d0062d09aa8e84">
+        <dex dex="C:\Users\user\Downloads\fingerlock-master(0928_2)\fingerlock-master\app\build\intermediates\pre-dexed\debug\classes_a035750a401068302482d9116bef11248b49269b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Downloads\fingerlock-master(0928_2)\fingerlock-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94e93988af4d83813bcea1c5081751e47cf21f4a">
+        <dex dex="C:\Users\user\Downloads\fingerlock-master(0928_2)\fingerlock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b13dca53d1e014b77951e62fba77d6003b77e30c\classes.dex" />
+    </item>
+
+</items>

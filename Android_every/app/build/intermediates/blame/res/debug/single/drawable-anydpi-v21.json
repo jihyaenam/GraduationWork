@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_fingerprint_success.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\dialog\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\ic_fingerprint_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_mic_24dp.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mic_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.5.9\\res\\drawable-anydpi-v21\\md_nav_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_fingerprint_error.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928_2)\\fingerlock-master\\dialog\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\ic_fingerprint_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_mic_24dp.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mic_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_fingerprint_error.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\exploded-aar\\fingerlock-master\\dialog\\unspecified\\res\\drawable-anydpi-v21\\ic_fingerprint_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_fingerprint_error.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\dialog\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\ic_fingerprint_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_fingerprint_success.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\dialog\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\ic_fingerprint_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_fingerprint_success.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\exploded-aar\\fingerlock-master\\dialog\\unspecified\\res\\drawable-anydpi-v21\\ic_fingerprint_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_fingerprint_error.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\dialog\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\ic_fingerprint_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\drawable-anydpi-v21\\md_nav_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\drawable-anydpi-v21\\md_nav_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_fingerprint_success.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\dialog\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\ic_fingerprint_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_mic_24dp.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mic_24dp.xml"
+    }
+]

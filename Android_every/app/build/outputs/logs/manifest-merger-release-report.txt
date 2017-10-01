@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:5:22-71
+application
+ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:percent:24.2.0] C:\Users\user\.android\build-cache\f1c06fc552526706c2098c89b873dd8ab167eafd\output\AndroidManifest.xml:22:5-20
+MERGED from [fingerlock-master:dialog:unspecified] C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\dialog\build\intermediates\bundles\default\AndroidManifest.xml:8:5-20
+MERGED from [fingerlock-master:core:unspecified] C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\core\build\intermediates\bundles\default\AndroidManifest.xml:7:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] C:\Users\user\.android\build-cache\6966fc7e29c25f406aecbfd66e9b8f2f59054697\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\user\.android\build-cache\05ba4c22afd31422832051ea1f474aea29afc773\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\user\.android\build-cache\31e02e091a317b20724c75ad09cbcc25d235927a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\user\.android\build-cache\00eca296b53743bcd07a669e26570c65e89d2aab\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\user\.android\build-cache\4c24df0fe9e4a0e584e21664223fbd0d59a646b6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\user\.android\build-cache\58d4eb12a71115fb43fb107f737e9539b318565e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\user\.android\build-cache\cb9d77d8939197c5c9dea400a39555f3c7df350e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\user\.android\build-cache\ab17d6ff9cd1ca1cc70c8f7c6d9c8189af19267e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\user\.android\build-cache\731ebb9b8d64a1a3b11d92658015670c55fb7766\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\user\.android\build-cache\c58eb9f12fb73a5fe74a5e154044cd386d17bf7f\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.aitorvs.android.fingerlocksample.voice
+ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:13:19-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.aitorvs.android.fingerlocksample.MainActivity
+ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:20:9-49
+	android:name
+		ADDED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml:20:19-47
+uses-sdk
+INJECTED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:percent:24.2.0] C:\Users\user\.android\build-cache\f1c06fc552526706c2098c89b873dd8ab167eafd\output\AndroidManifest.xml:20:5-43
+MERGED from [fingerlock-master:dialog:unspecified] C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\dialog\build\intermediates\bundles\default\AndroidManifest.xml:6:5-44
+MERGED from [fingerlock-master:core:unspecified] C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\core\build\intermediates\bundles\default\AndroidManifest.xml:5:5-44
+MERGED from [com.afollestad.material-dialogs:core:0.8.5.9] C:\Users\user\.android\build-cache\6966fc7e29c25f406aecbfd66e9b8f2f59054697\output\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\user\.android\build-cache\f91adcae79ba3c5bb10c24c67913a1e503689202\output\AndroidManifest.xml:20:5-43
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.5] C:\Users\user\.android\build-cache\75c9633952dff165229b217fb5dcb191ba767b5a\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\user\.android\build-cache\05ba4c22afd31422832051ea1f474aea29afc773\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\user\.android\build-cache\31e02e091a317b20724c75ad09cbcc25d235927a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\user\.android\build-cache\00eca296b53743bcd07a669e26570c65e89d2aab\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\user\.android\build-cache\4c24df0fe9e4a0e584e21664223fbd0d59a646b6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\user\.android\build-cache\58d4eb12a71115fb43fb107f737e9539b318565e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\user\.android\build-cache\cb9d77d8939197c5c9dea400a39555f3c7df350e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\user\.android\build-cache\ab17d6ff9cd1ca1cc70c8f7c6d9c8189af19267e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\user\.android\build-cache\731ebb9b8d64a1a3b11d92658015670c55fb7766\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\user\.android\build-cache\c58eb9f12fb73a5fe74a5e154044cd386d17bf7f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.8.5.9] C:\Users\user\.android\build-cache\6966fc7e29c25f406aecbfd66e9b8f2f59054697\output\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\fingerlock-master(0928)\fingerlock-master\app\src\main\AndroidManifest.xml

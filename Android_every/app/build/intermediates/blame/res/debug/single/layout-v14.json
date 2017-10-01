@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.5.9\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.5.9\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\user\\Downloads\\fingerlock-master\\fingerlock-master\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.5.9\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(0928)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\fingerlock-master(never)\\fingerlock-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\6966fc7e29c25f406aecbfd66e9b8f2f59054697\\output\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    }
+]
